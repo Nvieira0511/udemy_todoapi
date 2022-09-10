@@ -1,0 +1,10 @@
+h1{
+    color: purple;
+}
+.done{
+    opacity: 50%;
+}
+.span{
+    float: right;
+    color: red;
+}
